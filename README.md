@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shreyaskulat
-- 👀 I’m interested in ...c,c++,HTML5,CSS3,JAVASCRIPT,Python3
-- 🌱 I’m currently learning ...python3,c
-- 💞️ I’m looking to collaborate on ...python3
+- 👀 I’m interested in ...c,c++,HTML5,CSS3,JAVASCRIPT,Core Java, J2EE, SQL
 - 📫 How to reach me ...full stack developer
 
 <!---
